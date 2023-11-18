@@ -4,10 +4,7 @@ package proxy_pattern;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- *
- * @author TECHNIFI 1
- */
+
 
 // Proxy class
 abstract class ExamProxy implements Exam {
